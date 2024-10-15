@@ -16,6 +16,7 @@ The Secure User Management System is a web application built using Spring Boot, 
 - **Spring Security**: For securing the application and managing user authentication and authorization.
 - **MySQL**: As the database for storing user information.
 
+  ## LinkedIn Post
   Check out the LinkedIn post for more details and discussion about this project: [LinkedIn Post Link]([https://www.linkedin.com/posts/amr-elsebaey_hello-everyone-im-excited-to-share-that-activity-7249853333031563264-Yyj-?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/amr-elsebaey_springboot-thymeleaf-springsecurity-activity-7250475232421953537-BIeq?utm_source=share&utm_medium=member_desktop)).
 
 
